@@ -16,3 +16,8 @@ Plaza Mayor: Una plaza central histórica rodeada de impresionantes edificios y 
 
 Gran Vía: Una bulliciosa avenida repleta de tiendas, teatros, restaurantes y edificios emblemáticos.
 
+## Foto
+
+![](https://media.traveler.es/photos/6712429132de56225d8bb7ff/16:9/w_2560%2Cc_limit/GettyImages-1752719931.jpg)
+
+
