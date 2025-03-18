@@ -25,4 +25,16 @@ Museo Ghibli: Un museo popular que muestra el trabajo del estudio de animación 
 
 ![](https://viajes.nationalgeographic.com.es/medio/2024/09/03/tokio_133ce43a_1284581217_240903122054_1280x854.jpg)ç
 
+## Informacion adicional 
 
+Idioma: El idioma oficial es el japonés.
+
+Moneda: La moneda es el yen japonés (¥).
+
+Clima: Tokio tiene un clima subtropical húmedo, con veranos calurosos y húmedos e inviernos suaves.
+
+Comida: La cocina japonesa es famosa por su diversidad y sabor, con platos como el sushi, el ramen, el tempura y el okonomiyaki.
+
+Transporte: Tokio cuenta con un sistema de transporte público muy eficiente, que incluye trenes, metros y autobuses.
+
+Cultura: Tokio es un centro de la cultura japonesa, con artes tradicionales como el kabuki y el sumo, así como una cultura pop moderna vibrante que incluye el anime y el manga.
