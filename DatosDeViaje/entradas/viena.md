@@ -13,3 +13,7 @@ Catedral de San Esteban: Una impresionante catedral gótica con una torre altís
 
 Ópera Estatal de Viena: Uno de los teatros de ópera más importantes del mundo, conocido por sus producciones de ópera y ballet de primera clase.
 
+## Foto
+
+![](https://blog.ecohotels.com/wp-content/uploads/2023/12/Visit-Vienna-All-You-Need-to-Know9.jpg)
+
