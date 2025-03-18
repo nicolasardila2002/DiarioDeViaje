@@ -16,4 +16,15 @@ Castillo Sforzesco: Un gran castillo que albergó a la familia gobernante de Mil
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKR5TfYfHYO1K7_MS-7zq8VYg2JUDUS613nQ&s)
 
-##
+## Informacion adicional 
+Idioma: El idioma oficial es el italiano.
+
+Moneda: El euro (€) es la moneda de Italia.
+
+Clima: Milán tiene un clima continental húmedo, con veranos calurosos e inviernos fríos.
+
+Comida: La cocina milanesa ofrece platos deliciosos como el risotto alla milanese, la cotoletta alla milanese, el panettone y el gelato.
+
+Transporte: Milán cuenta con un sistema de transporte público eficiente, que incluye metro, tranvías, autobuses y trenes de cercanías.
+
+Cultura: Milán es un centro mundial de la moda, el diseño y las artes, con una prestigiosa Semana de la Moda y una animada escena nocturna.
