@@ -23,4 +23,6 @@ Westminster Abbey: Una hermosa iglesia gótica, lugar de coronaciones reales y l
 
 Hyde Park: Uno de los parques reales más grandes de Londres, que ofrece espacios verdes, un lago y Speaker's Corner.
 
-## 
+## Foto
+
+![](https://www.universal-assistance.com/uablog/wp-content/uploads/2022/12/big-ben.png)
