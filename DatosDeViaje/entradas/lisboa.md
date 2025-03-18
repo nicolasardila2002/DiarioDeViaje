@@ -16,3 +16,7 @@ Barrio de Alfama: El barrio más antiguo de Lisboa, conocido por sus calles estr
 
 Plaza del Comercio (Praça do Comércio): Una gran plaza frente al mar que alguna vez fue la puerta de entrada a Lisboa.
 
+## Foto
+
+![](https://media-cdn.tripadvisor.com/media/photo-s/1a/a4/67/d5/lisboa-by-night.jpg)
+
