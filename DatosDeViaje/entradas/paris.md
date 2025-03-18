@@ -18,3 +18,19 @@ Arco del Triunfo: Un monumento que se alza en el extremo occidental de los Campo
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/640px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg)
 
+
+## Informacion adicional 
+
+Idioma: El idioma oficial es el francés.
+
+Moneda: El euro (€) es la moneda de Francia.
+
+Clima: París tiene un clima oceánico templado, con veranos suaves e inviernos frescos.
+
+Comida: La cocina parisina es famosa por sus platos deliciosos como los croissants, los caracoles, el bistec con patatas fritas y la crème brûlée.
+
+Transporte: París cuenta con un sistema de transporte público muy completo, que incluye el metro, los autobuses, los trenes de cercanías (RER) y los tranvías.
+
+Cultura: París es un centro mundial de la moda, el arte, la literatura y la música, con numerosos museos, teatros y salas de conciertos.
+
+
