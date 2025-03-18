@@ -17,3 +17,16 @@ Catedral de San Esteban: Una impresionante catedral gótica con una torre altís
 
 ![](https://blog.ecohotels.com/wp-content/uploads/2023/12/Visit-Vienna-All-You-Need-to-Know9.jpg)
 
+## Informacion adicional 
+
+Idioma: El idioma oficial es el alemán.
+
+Moneda: El euro (€) es la moneda de Austria.
+
+Clima: Viena tiene un clima continental, con veranos cálidos e inviernos fríos.
+
+Comida: La cocina vienesa es conocida por platos como el Wiener Schnitzel, el Tafelspitz, el Apfelstrudel y la Sachertorte.
+
+Transporte: Viena cuenta con un sistema de transporte público eficiente, que incluye metro, tranvías, autobuses y trenes de cercanías.
+
+Cultura: Viena tiene una rica herencia musical, con numerosos teatros de ópera, salas de conciertos y eventos musicales. También es conocida por sus cafés tradicionales, donde los visitantes pueden disfrutar de café y pasteles.
