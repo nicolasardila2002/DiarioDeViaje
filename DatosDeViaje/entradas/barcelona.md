@@ -12,4 +12,7 @@ Barcelona es uno de los destinos turisticos mas hermosos e historicos el cual pu
 
 - Las playas
 
-##
+## Foto
+
+![](https://acortar.link/5YezS2)
+
