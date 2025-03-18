@@ -20,4 +20,16 @@ Gran Vía: Una bulliciosa avenida repleta de tiendas, teatros, restaurantes y ed
 
 ![](https://media.traveler.es/photos/6712429132de56225d8bb7ff/16:9/w_2560%2Cc_limit/GettyImages-1752719931.jpg)
 
+## Informacion adicional 
 
+Idioma: El idioma oficial es el español.
+
+Moneda: El euro (€) es la moneda de España.
+
+Clima: Madrid tiene un clima continental, con veranos calurosos e inviernos fríos.
+
+Comida: La cocina madrileña ofrece platos deliciosos como el cocido madrileño, las tapas, el jamón ibérico y los churros con chocolate.
+
+Transporte: Madrid cuenta con un sistema de transporte público eficiente, que incluye metro, autobuses y trenes de cercanías.
+
+Cultura: Madrid es conocida por su pasión por el fútbol, sus corridas de toros y su animada vida nocturna, con numerosos bares, discotecas y tablaos de flamenco.
