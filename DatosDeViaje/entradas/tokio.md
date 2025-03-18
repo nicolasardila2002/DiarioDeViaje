@@ -20,3 +20,9 @@ Barrio de Harajuku: El centro de la moda juvenil y la cultura callejera de Tokio
 Mercado de Toyosu: El mercado de pescado más grande del mundo, donde los visitantes pueden presenciar la famosa subasta de atún y disfrutar de mariscos frescos.
 
 Museo Ghibli: Un museo popular que muestra el trabajo del estudio de animación Ghibli.
+
+## Foto
+
+![](https://viajes.nationalgeographic.com.es/medio/2024/09/03/tokio_133ce43a_1284581217_240903122054_1280x854.jpg)ç
+
+
