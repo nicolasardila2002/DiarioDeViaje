@@ -17,5 +17,11 @@ Cambridge University Botanic Garden: Pasea por los hermosos jardines, que alberg
 
 Market Square: Visita el bullicioso mercado, donde puedes encontrar productos frescos, artesanías y comida callejera.
 
+## Foto
+
+![](https://media.istockphoto.com/id/517235492/es/foto/universidad-de-cambridge-vista-superior.jpg?s=612x612&w=0&k=20&c=fwCS7uTTID46PRrTonF-XwfTgCgsxbATF2azStkEISM=)
+
+
+
 
 
