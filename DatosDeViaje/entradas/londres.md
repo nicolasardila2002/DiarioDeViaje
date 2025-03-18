@@ -26,3 +26,18 @@ Hyde Park: Uno de los parques reales más grandes de Londres, que ofrece espacio
 ## Foto
 
 ![](https://www.universal-assistance.com/uablog/wp-content/uploads/2022/12/big-ben.png)
+
+## Informacion adicional
+
+Idioma: El idioma oficial es el inglés.
+
+Moneda: La libra esterlina (£) es la moneda del Reino Unido.
+
+Clima: Londres tiene un clima templado marítimo, con veranos suaves e inviernos frescos.
+
+Comida: Londres ofrece una variada oferta culinaria, desde pubs tradicionales hasta restaurantes con estrellas Michelin y mercados de comida callejera.
+
+Transporte: Londres cuenta con una extensa red de transporte público, que incluye el metro ("el Tube"), autobuses, trenes y taxis.
+
+Cultura: Londres es un centro de teatro, música y artes escénicas, con el West End como principal distrito teatral.
+
